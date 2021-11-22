@@ -1,6 +1,6 @@
 class Criteria(object):
     """Represents a Pulp search criteria.
-    
+
     This is an opaque class which is not intended to be created
     or used directly. Instances of this class should be obtained and
     composed by calls to the documented class methods.
